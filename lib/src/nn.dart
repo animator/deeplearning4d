@@ -342,9 +342,9 @@ class Errors {
 /** Built-in activation functions */
 class _TANHctivationFunction implements ActivationFunction {
   double output(double input) {
-    if (input == double.INFINITY) {
+    if (input == double.infinity) {
       return 1.0;
-    } else if (input == double.NEGATIVE_INFINITY) {
+    } else if (input == double.negativeInfinity) {
       return -1.0;
     } else {
       double e2x = exp(2 * input);
