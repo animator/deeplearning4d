@@ -1,7 +1,7 @@
 name: deeplearning4d
 description: Tensorflow Playground Neural Net implementation on Dart
-version: 0.0.1
-author: Marat Gubaidullin <marat.gubaidullin@gmail.com>
+version: 0.0.2
+author: Marat Gubaidullin <marat.gubaidullin@gmail.com>, Ankit Mahato <ankmahato@gmail.com>
 homepage: https://github.com/deeplearning4d/deeplearning4d
 
 environment:
